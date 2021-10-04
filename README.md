@@ -1,2 +1,2 @@
 # MeuExercPratico
-Exercícios proposto em 28.09.21
+Exercícios de algorímos propostos para a turma do Aqui Educa em 28.09.2
